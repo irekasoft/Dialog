@@ -1523,7 +1523,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c003d;
         public static final int action_mode_bar_stub=0x7f0c003c;
         public static final int action_mode_close_button=0x7f0c0025;
-        public static final int action_settings=0x7f0c0056;
+        public static final int action_settings=0x7f0c0058;
         public static final int activity_chooser_view_content=0x7f0c0026;
         public static final int alertTitle=0x7f0c0030;
         public static final int always=0x7f0c0016;
@@ -1533,6 +1533,8 @@ containing a value of this type.
         public static final int button3=0x7f0c0053;
         public static final int button4=0x7f0c0054;
         public static final int button5=0x7f0c0055;
+        public static final int button6=0x7f0c0056;
+        public static final int button7=0x7f0c0057;
         public static final int buttonPanel=0x7f0c0036;
         public static final int checkbox=0x7f0c0038;
         public static final int collapseActionView=0x7f0c0017;

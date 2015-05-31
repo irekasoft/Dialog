@@ -106,6 +106,20 @@ public class MainActivity extends ActionBarActivity implements CustomDialogFragm
         myAlert.show();
     }
 
+    public void showDatePicker(View view){
+
+        MyDatePickerDialog myDatePickerDialog = new MyDatePickerDialog();
+        myDatePickerDialog.show(getFragmentManager(),"Hi");
+
+    }
+
+    public void showTimePicker(View view){
+
+        MyTimePickerDialog myTimePickerDialog = new MyTimePickerDialog();
+        myTimePickerDialog.show(getFragmentManager(),"Hi");
+
+    }
+
     //endregion
 
     @Override
